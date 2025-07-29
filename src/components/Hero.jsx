@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Hero = ({title = "Become a React Dev",
+const Hero = ({title = "Become a React Developer",
                   subtitle = "Find the React job that fits your skill set"}) => {
   return (
       <section className="bg-indigo-700 py-20 mb-4">
