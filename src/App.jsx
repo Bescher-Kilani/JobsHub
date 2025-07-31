@@ -9,7 +9,7 @@ const App = () => {
 
       <>
         <Navbar />
-        <Hero />
+        <Hero title="Become a React Developer" />
         <HomeCards />
 
         {/*<!-- Browse Jobs -->*/}
