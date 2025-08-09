@@ -11,13 +11,10 @@ const App = () => {
 
       <>
         <Navbar />
-        <Hero title="Become a React Developer" />
+        <Hero />
         <HomeCards />
         <JobListings />
         <ViewAllJobs />
-
-
-
       </>
 
   );
