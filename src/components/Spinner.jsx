@@ -2,7 +2,8 @@ import React from 'react';
 import { PropagateLoader } from "react-spinners";
 
 const override = {
-    display:'block',
+    display: 'flex',
+    justifyContent: 'center',
     margin:'100px auto'
 }
 
@@ -12,7 +13,8 @@ const Spinner = ({loading}) => {
           color='#134fe6'
           cssOverride={override}
           loading={ loading }
-          size={150}
+          size={15}
+          speedMultiplier={1}
       />
   );
 };
