@@ -1,7 +1,8 @@
 import React, {useState} from 'react';
 import { useLoaderData, Link, useNavigate } from 'react-router-dom';
+import {toast} from "react-toastify";
 
-const EditJobPage = () => {
+const EditJobPage = ({updateJobSubmit}) => {
 
 
     const job = useLoaderData();
@@ -15,6 +16,29 @@ const EditJobPage = () => {
     const [companyDescription, setCompanyDescription] = useState(job.company.description);
     const [contactEmail, setContactEmail] = useState(job.company.contactEmail);
     const [contactPhone, setContactPhone] = useState(job.company.contactPhone);
+    const navigate = useNavigate();
+
+    const submitForm = (e) => {
+        e.preventDefault();
+
+        const updatedJob = {
+            id,
+            title,
+            type,
+            location,
+            description,
+            salary,
+            company:{
+                name: companyName,
+                description: companyDescription,
+                contactEmail,
+                contactPhone,
+            }
+        }
+        updateJobSubmit(updatedJob);
+        toast.success("Job Updated Successfully!");
+        return navigate(`/jobs/${id}`);
+    }
 
     return (
         <section className="bg-indigo-50">
