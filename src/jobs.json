@@ -2,86 +2,338 @@
   "jobs": [
     {
       "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "location": "Boston, MA",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "salary": "$70K - $80K",
+      "title": "Senior React-Entwickler:in",
+      "type": "Vollzeit",
+      "location": "Berlin",
+      "description": "Wir suchen eine:n erfahrene:n Frontend-Entwickler:in mit tiefem Verständnis für React, TypeScript und moderne Webarchitekturen. Du konzipierst und entwickelst skalierbare Single-Page- und Micro-Frontend-Anwendungen für den öffentlichen Sektor, stimmst Anforderungen mit Product Ownern ab und triffst Architekturentscheidungen (State-Management, Caching, API-Design). Zu deinen Aufgaben gehören Code-Reviews, Performance-Optimierung (Lighthouse, Web Vitals), Barrierefreiheit nach WCAG, Testabdeckung mit Jest/RTL sowie CI/CD-Setups (z. B. GitHub Actions). Du arbeitest eng mit UX, DevOps und Backend (Node/Java/Kotlin) zusammen, übernimmst Mentoring für Juniors und bringst Clean-Code-/Security-Praktiken (OWASP) ein. Tech-Stack: React 18, TypeScript, React Query, Redux Toolkit, Tailwind/SCSS, Jest/RTL, Cypress, REST/GraphQL. Deutsch mind. B2, Remote-First mit optionalen Präsenztagen in Berlin.",
+      "salary": "70.000–85.000 €",
       "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
+        "name": "TechNova GmbH",
+        "description": "Die TechNova GmbH ist ein Berliner Softwarehaus (≈120 Mitarbeitende), spezialisiert auf Webplattformen und Cloudlösungen für Verwaltung und Mittelstand. Wir arbeiten agil (Scrum/Kanban), investieren jährlich in Weiterbildung (Budget & Konferenzbesuche) und fördern interne Tech-Gilden. Benefits: 30 Tage Urlaub, flexible Arbeitszeiten, Remote-Option, ÖPNV-/Fahrradzuschuss, modern ausgestattete Büros nahe S+U. Unsere Kultur: wertschätzend, transparent, qualitätsorientiert – mit Fokus auf nachhaltiger Software statt Hype.",
+        "contactEmail": "kontakt@technova.de",
+        "contactPhone": "+49 30 8457 2310"
       }
     },
     {
       "id": "2",
-      "title": "Front-End Engineer (React & Redux)",
-      "type": "Full-Time",
-      "location": "Miami, FL",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
+      "title": "Frontend Engineer (React & Redux)",
+      "type": "Vollzeit",
+      "location": "München",
+      "description": "Du entwickelst hochwertige Benutzeroberflächen mit React, Redux Toolkit und TypeScript für datenintensive B2B-Anwendungen. Du übersetzt UX-Konzepte in wiederverwendbare Komponenten, implementierst robuste State- und Error-Handling-Patterns, optimierst Bundlegrößen (Code-Splitting, lazy loading) und stellst Accessibility sicher. Du wirkst an Design-Systemen mit (Storybook), definierst Test-Strategien (Jest/RTL/Cypress) und integrierst APIs (REST/GraphQL). Erfahrung mit Next.js, i18n, Analytics-Events sowie E2E-Deployments ist von Vorteil.",
+      "salary": "68.000–80.000 €",
       "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
+        "name": "Veneer Solutions GmbH",
+        "description": "Veneer Solutions ist eine Münchener Digitalagentur (≈70 Mitarbeitende) mit Fokus auf Webentwicklung, Design und Strategie. Wir begleiten Kund:innen bei komplexen Digitalprojekten – von Research bis Betrieb. Arbeitsweise: cross-funktionale Teams, klare Karrierepfade (Fach- & Führungslaufbahn), regelmäßige Retro- und Tech-Talks. Benefits: hybrides Arbeiten, Lernzeit im Sprint, Hardware nach Wahl, Corporate Benefits, Zuschuss zur Kinderbetreuung.",
+        "contactEmail": "jobs@veneersolutions.de",
+        "contactPhone": "+49 89 2488 9012"
       }
     },
     {
       "id": "3",
-      "title": "React.js Dev",
-      "type": "Full-Time",
-      "location": "Brooklyn, NY",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "salary": "$70K - $80K",
+      "title": "React.js-Entwickler:in",
+      "type": "Vollzeit",
+      "location": "Hamburg",
+      "description": "Als Teil unseres agilen Teams entwickelst du eine Cloud-Plattform weiter, die täglich von tausenden Nutzer:innen verwendet wird. Du implementierst modulare React-Komponenten, kapselst Business-Logik sauber (Hooks/Services), integrierst REST-APIs, baust Telemetrie/Monitoring (Sentry) ein und arbeitest mit Feature Flags. Du bringst Erfahrung im Releasemanagement und in der Zusammenarbeit mit QA/UX mit und hast ein Auge für DX (ESLint/Prettier, Husky).",
+      "salary": "65.000–78.000 €",
       "company": {
-        "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-        "contactEmail": "contact@dolorsitamet.com",
-        "contactPhone": "555-555-5555"
+        "name": "CloudMotion AG",
+        "description": "CloudMotion ist ein norddeutsches IT-Unternehmen (≈220 Mitarbeitende), spezialisiert auf SaaS-Lösungen für Industrie & Handel. Wir setzen auf pragmatische Architektur, automatisierte Qualitätssicherung und nachhaltigen Betrieb (SRE-Praktiken). Benefits: 30 Tage Urlaub, Betriebsrente, Remote-Work (DE), Company Offsites an der Elbe, Mentoring-Programm und interne Zertifizierungen.",
+        "contactEmail": "karriere@cloudmotion.de",
+        "contactPhone": "+49 40 2984 7700"
       }
     },
     {
       "id": "4",
-      "title": "React Front-End Developer",
-      "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Pheonix, AZ",
-      "salary": "$60K - $70K",
+      "title": "Frontend-Entwickler:in (Teilzeit)",
+      "type": "Teilzeit",
+      "location": "Düsseldorf",
+      "description": "Du gestaltest UI/UX und entwickelst reaktionsschnelle Interfaces mit React/TypeScript (20–30 Std./Woche). Du arbeitest eng mit Design zusammen, implementierst Animations- und Interaktionsmuster, pflegst ein komponentenbasiertes Design-System (Storybook), stellst Barrierefreiheit sicher und testest mit Jest/RTL. Optional: Content-Integrationen (Headless CMS), SEO (SSR/Next.js).",
+      "salary": "40.000–50.000 € (bei Vollzeitäquivalent)",
       "company": {
-        "name": "Alpha Elite",
-        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
-        "contactEmail": "contact@adipisicingelit.com",
-        "contactPhone": "555-555-5555"
+        "name": "Alpha Elite Digital",
+        "description": "Alpha Elite ist eine junge Agentur (≈25 Mitarbeitende) für digitales Marketing & Webentwicklung. Wir kombinieren Kreation, Technologie und Analytics. Benefits: flexible Teilzeitmodelle, Remote-Tag, Weiterbildungsbudget, urbanes Büro in Medienhafen-Nähe, familiäre Kultur mit kurzen Entscheidungswegen.",
+        "contactEmail": "bewerbung@alphaelite.de",
+        "contactPhone": "+49 211 5583 602"
       }
     },
     {
       "id": "5",
-      "title": "Full Stack React Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-      "location": "Atlanta, GA",
-      "salary": "$90K - $100K",
+      "title": "Full-Stack-React-Entwickler:in",
+      "type": "Vollzeit",
+      "location": "Stuttgart",
+      "description": "Du entwickelst moderne Webapplikationen mit React (Frontend) und Node.js/NestJS (Backend). Aufgaben: API-Design, Auth (OAuth/OIDC), Datenmodellierung, CI/CD-Pipelines, Docker-Containerisierung und automatisierte Tests. Du planst technische Epics, schätzt Storys, setzt Coding-Guidelines durch und treibst Observability (OpenTelemetry) voran.",
+      "salary": "75.000–90.000 €",
       "company": {
-        "name": "Browning Technologies",
-        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-        "contactEmail": "contact@consecteturadipisicing.com",
-        "contactPhone": "555-555-5555"
+        "name": "Browning Technologies GmbH",
+        "description": "Browning Technologies (≈90 Mitarbeitende) ist auf E-Commerce- und Cloud-Lösungen für den Mittelstand spezialisiert. Wir arbeiten domänengetrieben (DDD light) und investieren in Developer Experience. Benefits: 30 Tage Urlaub, Mobilitätsbudget, Homeoffice-Ausstattung, Fortbildungen, Gewinnbeteiligung.",
+        "contactEmail": "karriere@browning-tech.de",
+        "contactPhone": "+49 711 6647 890"
       }
     },
     {
       "id": "6",
       "title": "React Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Portland, OR",
-      "salary": "$100K - $110K",
+      "type": "Vollzeit",
+      "location": "Leipzig",
+      "description": "Du baust Mobile-Apps mit React Native (iOS/Android), integrierst native Module, setzt Offline-Strategien (Persistenz, Sync), Push-Notifications, Deeplinks und CI/CD (Fastlane). Testing mit Detox/Jest, Monitoring mit Sentry, Crashlytics. Erfahrung mit App Store/Play Store Release-Prozessen erwünscht.",
+      "salary": "70.000–85.000 €",
       "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
+        "name": "Port Solutions GmbH",
+        "description": "Port Solutions ist ein Leipziger Softwarestudio (≈40 Mitarbeitende) mit Fokus Mobile & Web. Wir bieten Remote-Optionen, Pair Programming, wöchentliche Tech-Sessions, 30 Tage Urlaub, sowie Zuschüsse für Konferenzen und ÖPNV.",
+        "contactEmail": "jobs@portsolutions.de",
+        "contactPhone": "+49 341 5617 223"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Vollzeit",
+      "location": "Köln",
+      "description": "Du startest als Junior im Frontend-Team und entwickelst Features in React/TypeScript. Du erhältst Code-Reviews, arbeitest mit Tickets/Boards, schreibst Unit-Tests und lernst Best Practices (Accessibility, Security, Performance). Mentoring & Lernziele sind fest verankert.",
+      "salary": "48.000–55.000 €",
+      "company": {
+        "name": "NextGen Media GmbH",
+        "description": "NextGen Media (≈55 Mitarbeitende) entwickelt Medien- und Streaming-Lösungen. Wir bieten Onboarding-Buddy-Programm, Trainingspfad, Lernfreitage pro Quartal, Team-Events und moderne Tools (Mac/Win frei wählbar).",
+        "contactEmail": "karriere@nextgenmedia.de",
+        "contactPhone": "+49 221 8976 340"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Frontend Developer (React/TypeScript)",
+      "type": "Vollzeit",
+      "location": "Frankfurt am Main",
+      "description": "Du entwickelst modulare Frontend-Komponenten für eine B2B-Plattform im Finanzumfeld. Fokus: Form-Handling, komplexe Tabellen/Charts, State-Management, Security (CSP, Sanitizing), Performance (Memoization, Suspense). Erfahrung mit React Query/GraphQL/Next.js ist hilfreich.",
+      "salary": "72.000–88.000 €",
+      "company": {
+        "name": "FinTech One AG",
+        "description": "FinTech One (≈160 Mitarbeitende) liefert Software für Banken und FinTechs. Strenge Qualitäts- und Compliance-Standards, klare Karrierepfade, hybrides Arbeiten, 30 Tage Urlaub, Betriebsrente, Lernbudget.",
+        "contactEmail": "bewerbung@fintechone.de",
+        "contactPhone": "+49 69 2145 661"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Developer (Remote)",
+      "type": "Vollzeit",
+      "location": "Remote (Deutschlandweit)",
+      "description": "Komplett remote: du entwickelst interaktive React-Frontends, betreust Deployments, verbesserst DX und arbeitest eng mit QA/UX zusammen. Du kommunizierst asynchron, dokumentierst sauber und arbeitest testgetrieben.",
+      "salary": "68.000–80.000 €",
+      "company": {
+        "name": "CodeHub Digital GmbH",
+        "description": "CodeHub Digital ist ein Remote-First-Team (≈35 Mitarbeitende). Wir setzen auf asynchrone Zusammenarbeit, klare Prozesse, monatliche Remote-Retreats und ein starkes Mentoring. Ausstattung & Co-Working-Zuschuss inklusive.",
+        "contactEmail": "jobs@codehub-digital.de",
+        "contactPhone": "+49 351 9928 456"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React-Entwickler:in für E-Commerce",
+      "type": "Vollzeit",
+      "location": "Nürnberg",
+      "description": "Du entwickelst Shop-Frontends (Headless, API-first) mit React/Next.js. Du implementierst Zahlungs- und Such-Integrationen, optimierst Core Web Vitals, setzt A/B-Tests auf und arbeitest mit einem Design-System.",
+      "salary": "66.000–78.000 €",
+      "company": {
+        "name": "ShopVerse GmbH",
+        "description": "ShopVerse (≈60 Mitarbeitende) entwickelt moderne Shopsysteme und Commerce-Apps. Wir bieten hybride Arbeit, Weiterbildungsbudget, Mitarbeiterrabatte, interne Brown-Bag-Sessions und ein kollegiales Miteinander.",
+        "contactEmail": "karriere@shopverse.de",
+        "contactPhone": "+49 911 4829 773"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React Frontend Lead",
+      "type": "Vollzeit",
+      "location": "Bremen",
+      "description": "Als Lead verantwortest du Architektur, Codequalität und Team-Enablement. Du definierst Standards, planst Roadmaps, koordinierst mit Product/Design und förderst die Weiterentwicklung des Teams. Hands-on-Coding bleibt Teil deiner Rolle.",
+      "salary": "85.000–100.000 €",
+      "company": {
+        "name": "NordCode IT GmbH",
+        "description": "NordCode IT (≈80 Mitarbeitende) baut Web- und Cloudanwendungen für Industrie & Logistik. Wir leben Ownership, transparente Kommunikation und regelmäßige Tech-Roadshows. Benefits: 30 Tage, Remote-Option, Gewinnbeteiligung.",
+        "contactEmail": "lead@northcode.de",
+        "contactPhone": "+49 421 9821 567"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Developer (Werkstudent:in)",
+      "type": "Teilzeit",
+      "location": "Dresden",
+      "description": "Du unterstützt bei Komponentenentwicklung, Testautomatisierung, Dokumentation und kleinen Bugfixes. Du erhältst Coaching, lernst CI/CD, Git-Workflows und arbeitest mit echten Produktionssystemen.",
+      "salary": "15–20 € pro Stunde",
+      "company": {
+        "name": "SmartDev Labs",
+        "description": "SmartDev Labs ist ein Dresdner Startup (≈18 Mitarbeitende) mit Fokus Web & KI-Prototyping. Wir bieten flexible Arbeitszeiten, Thesis-Betreuung, moderne Hardware und ein lernfreundliches Umfeld.",
+        "contactEmail": "werkstudent@smartdevlabs.de",
+        "contactPhone": "+49 351 6257 812"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React Developer für SaaS-Plattform",
+      "type": "Vollzeit",
+      "location": "Hannover",
+      "description": "Du baust neue Features und modulare UI-Kits für unsere Multi-Tenant-SaaS. Du definierst API-Verträge mit dem Backend, sicherst Qualität mit Unit-/E2E-Tests und begleitest Releases. Erfahrung mit Feature-Toggles und A/B-Testing hilfreich.",
+      "salary": "70.000–82.000 €",
+      "company": {
+        "name": "SoftIQ Systems GmbH",
+        "description": "SoftIQ Systems (≈65 Mitarbeitende) entwickelt Cloud- und Plattformlösungen v. a. für Health & Education. Kultur: konstruktives Feedback, klare Ziele, Lernbudget, Team-Events. Moderne Tools, höhenverstellbare Tische, Jobrad.",
+        "contactEmail": "karriere@softiq.de",
+        "contactPhone": "+49 511 7824 100"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Frontend Engineer (React/Next.js)",
+      "type": "Vollzeit",
+      "location": "Berlin",
+      "description": "Du entwickelst performante Frontends mit React/Next.js (SSR/SSG), optimierst SEO & Performance, implementierst i18n und arbeitest mit Headless CMS. Du betreust ein Design-System in Storybook und setzt visuelle Regressionstests auf.",
+      "salary": "75.000–90.000 €",
+      "company": {
+        "name": "NextFrame Media GmbH",
+        "description": "NextFrame Media (≈45 Mitarbeitende) ist eine Berliner Digitalagentur mit Fokus auf Performance, UX und Barrierefreiheit. Wir arbeiten agil, transparent und nutzerzentriert. Fortbildungen & Zertifizierungen sind fest eingeplant.",
+        "contactEmail": "jobs@nextframe.de",
+        "contactPhone": "+49 30 4456 8912"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Developer für Industrie 4.0",
+      "type": "Vollzeit",
+      "location": "Dortmund",
+      "description": "Du entwickelst IoT-Dashboards und Echtzeit-Visualisierungen (WebSockets) für Produktionsdaten. Du arbeitest an robusten Table-Komponenten, Charts und Alarm-UI, inkl. Berechtigungskonzept und Offline-Fallbacks.",
+      "salary": "68.000–82.000 €",
+      "company": {
+        "name": "InnovaTech Solutions",
+        "description": "InnovaTech (≈110 Mitarbeitende) liefert Software für die Industrie. Stark in UX für Fachanwendungen, klare Qualitätssicherung, enge Zusammenarbeit mit Kund:innen in der Werkhalle. Benefits: 30 Tage, Weiterbildung, Parkplätze & ÖPNV-Zuschuss.",
+        "contactEmail": "bewerbung@innovatech.de",
+        "contactPhone": "+49 231 4442 770"
+      }
+    },
+    {
+      "id": "16",
+      "title": "React Developer (Remote / Hybrid)",
+      "type": "Vollzeit",
+      "location": "Remote (Deutschlandweit)",
+      "description": "Du arbeitest remote/hybrid an Enterprise-Frontends, definierst UI-Standards, pflegst CI/CD und stimmst dich eng mit Product/Design/QA ab. Du bringst Erfahrung mit GitFlow, feingranularen PRs und asynchroner Kommunikation mit.",
+      "salary": "72.000–86.000 €",
+      "company": {
+        "name": "BrightDev GmbH",
+        "description": "BrightDev (≈50 Mitarbeitende) ist Remote-First. Wir bieten Homeoffice-Pauschale, Co-Working-Zuschuss, jährliche Offsites, Learning Fridays und transparente Gehaltsbänder. Kultur: Vertrauen, Eigenverantwortung, Fokuszeit.",
+        "contactEmail": "jobs@brightdev.de",
+        "contactPhone": "+49 351 6678 900"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React Frontend Developer (Energiebranche)",
+      "type": "Vollzeit",
+      "location": "Essen",
+      "description": "Du entwickelst ein Energiemanagement-Portal mit komplexen Formularen, Dashboards und Reporting. Schwerpunkte: Datenvisualisierung, Berechtigungen, Sicherheit, Performance. Erfahrung mit Charting (Recharts/D3) erwünscht.",
+      "salary": "70.000–84.000 €",
+      "company": {
+        "name": "EnerData AG",
+        "description": "EnerData (≈140 Mitarbeitende) entwickelt Software für Netze & Erzeuger. Wir kombinieren domänenspezifisches Wissen mit moderner Webtech. Benefits: hybrides Arbeiten, betriebliche Altersvorsorge, Kantinenzuschuss, Weiterbildung.",
+        "contactEmail": "karriere@enerdata.de",
+        "contactPhone": "+49 201 6729 210"
+      }
+    },
+    {
+      "id": "18",
+      "title": "React Native Mobile Developer",
+      "type": "Vollzeit",
+      "location": "Kiel",
+      "description": "Du verantwortest Mobile-Features end-to-end: Konzeption, Umsetzung, Test, Release. Du implementierst sichere Auth-Flows, Offline-Caching, Deep Links und Performance-Tuning. Erfahrung mit nativen Bridges ist ein Plus.",
+      "salary": "65.000–80.000 €",
+      "company": {
+        "name": "BalticApps GmbH",
+        "description": "BalticApps (≈30 Mitarbeitende) ist auf hybride Apps spezialisiert. Wir bieten flexible Arbeitszeiten, Küstenflair, jährlich ein Tech-Bootcamp, Geräte nach Wahl und ein wertschätzendes, fokussiertes Umfeld.",
+        "contactEmail": "jobs@balticapps.de",
+        "contactPhone": "+49 431 9872 445"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Developer für Bildungsplattform",
+      "type": "Vollzeit",
+      "location": "Freiburg im Breisgau",
+      "description": "Du arbeitest an einer Lernplattform mit React/Next.js, GraphQL und Tailwind. Fokus: zugängliche UI, kollaborative Features, Offline-Funktionen, Testbarkeit. Du bringst Empathie für Bildungsnutzer:innen mit.",
+      "salary": "64.000–78.000 €",
+      "company": {
+        "name": "EduNext GmbH",
+        "description": "EduNext (≈60 Mitarbeitende) entwickelt Software für Bildungseinrichtungen. Wir leben Mission-Driven-Work, pädagogische Partnerschaften und offene Kommunikation. Benefits: 30 Tage, Sabbatical-Option, Weiterbildungsfonds.",
+        "contactEmail": "karriere@edunext.de",
+        "contactPhone": "+49 761 2764 880"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Developer (Freelancer)",
+      "type": "Freelance",
+      "location": "Remote (Deutschlandweit)",
+      "description": "Projektbasierte UI-Entwicklung mit React/TypeScript. Aufgaben: Komponentensysteme, Integrationen, Performance-Tuning, E2E-Tests. Erwartet: saubere Kommunikation, zuverlässige Schätzungen, eigenständige Umsetzung.",
+      "salary": "80–100 € pro Stunde",
+      "company": {
+        "name": "DevWorks Consulting",
+        "description": "DevWorks ist eine Tech-Beratung (Core-Team ≈15) mit großem Freelancer-Netzwerk. Wir bieten klare Verträge, schnelle Zahlungen, technische Sparrings und langfristige Partnerschaften.",
+        "contactEmail": "freelance@devworks.de",
+        "contactPhone": "+49 40 9901 345"
+      }
+    },
+    {
+      "id": "21",
+      "title": "React Developer für FinTech-Plattform",
+      "type": "Vollzeit",
+      "location": "Frankfurt am Main",
+      "description": "Du entwickelst eine Analyseplattform mit React/TypeScript und Chart-Bibliotheken. Du implementierst komplexe Filter/Tabellen, State-Management, Berechtigungen und exportfähige Reports. Erfahrung mit Data Viz & Sicherheit vorteilhaft.",
+      "salary": "75.000–90.000 €",
+      "company": {
+        "name": "Finalyze AG",
+        "description": "Finalyze (≈100 Mitarbeitende) baut Lösungen für Finanzdienstleister. Wir arbeiten qualitätsgetrieben, revisionssicher und mit klaren Standards. Benefits: hybrides Arbeiten, 30 Tage, Lernbudget, Company Shares-Programm.",
+        "contactEmail": "jobs@finalyze.de",
+        "contactPhone": "+49 69 9987 324"
+      }
+    },
+    {
+      "id": "22",
+      "title": "React Developer (Einstiegsposition)",
+      "type": "Vollzeit",
+      "location": "Mainz",
+      "description": "Du entwickelst interne Tools, übernimmst Bugfixes & kleine Features. Du lernst Architekturgrundlagen, Testing und CI/CD kennen. Regelmäßige 1:1s, Lernziele und Pairing sind Teil des Alltags.",
+      "salary": "45.000–52.000 €",
+      "company": {
+        "name": "WebForge GmbH",
+        "description": "WebForge (≈25 Mitarbeitende) ist ein Mainzer Studio für maßgeschneiderte Weblösungen. Wir fördern Juniors gezielt, bieten Mentoring, Schulungen und Kund:innenprojekte mit realem Impact.",
+        "contactEmail": "karriere@webforge.de",
+        "contactPhone": "+49 6131 5072 456"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Senior React Developer (Lead)",
+      "type": "Vollzeit",
+      "location": "Münster",
+      "description": "Du führst ein kleines Team, definierst Architektur- und Qualitätsstandards, planst Epics & Roadmaps und bleibst hands-on. Du arbeitest mit Stakeholdern, priorisierst Backlogs und förderst Wissensaustausch.",
+      "salary": "85.000–100.000 €",
+      "company": {
+        "name": "DeltaSoft GmbH",
+        "description": "DeltaSoft (≈95 Mitarbeitende) liefert Enterprise-Weblösungen. Wir bieten transparente Karrierepfade, Leadership-Coaching, Remote-Option, 30 Tage Urlaub, Gesundheitsbudget und jährliche Tech-Days.",
+        "contactEmail": "lead@deltasoft.de",
+        "contactPhone": "+49 251 9817 309"
+      }
+    },
+    {
+      "id": "24",
+      "title": "React Developer für Gesundheitsplattform",
+      "type": "Vollzeit",
+      "location": "Heidelberg",
+      "description": "Du entwickelst interaktive Oberflächen für eine medizinische Plattform mit hohen Anforderungen an Datenschutz und Barrierefreiheit. Du implementierst Formflows, Terminlogik, sichere Kommunikation und PDF/Export-Funktionen.",
+      "salary": "70.000–84.000 €",
+      "company": {
+        "name": "MediLink Systems GmbH",
+        "description": "MediLink (≈70 Mitarbeitende) modernisiert das Gesundheitswesen mit digitalen Lösungen. Wir arbeiten mit Med-Expert:innen zusammen, achten auf Compliance (DSGVO/ISO) und bieten sinnstiftende Arbeit, flexible Modelle und Fortbildungen.",
+        "contactEmail": "bewerbung@medilink.de",
+        "contactPhone": "+49 6221 5738 410"
       }
     }
   ]
