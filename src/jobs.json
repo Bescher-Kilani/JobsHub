@@ -29,20 +29,6 @@
       }
     },
     {
-      "id": "3",
-      "title": "React.js-Entwickler:in",
-      "type": "Vollzeit",
-      "location": "Hamburg",
-      "description": "Als Teil unseres agilen Teams entwickelst du eine Cloud-Plattform weiter, die täglich von tausenden Nutzer:innen verwendet wird. Du implementierst modulare React-Komponenten, kapselst Business-Logik sauber (Hooks/Services), integrierst REST-APIs, baust Telemetrie/Monitoring (Sentry) ein und arbeitest mit Feature Flags. Du bringst Erfahrung im Releasemanagement und in der Zusammenarbeit mit QA/UX mit und hast ein Auge für DX (ESLint/Prettier, Husky).",
-      "salary": "65.000–78.000 €",
-      "company": {
-        "name": "CloudMotion AG",
-        "description": "CloudMotion ist ein norddeutsches IT-Unternehmen (≈220 Mitarbeitende), spezialisiert auf SaaS-Lösungen für Industrie & Handel. Wir setzen auf pragmatische Architektur, automatisierte Qualitätssicherung und nachhaltigen Betrieb (SRE-Praktiken). Benefits: 30 Tage Urlaub, Betriebsrente, Remote-Work (DE), Company Offsites an der Elbe, Mentoring-Programm und interne Zertifizierungen.",
-        "contactEmail": "karriere@cloudmotion.de",
-        "contactPhone": "+49 40 2984 7700"
-      }
-    },
-    {
       "id": "4",
       "title": "Frontend-Entwickler:in (Teilzeit)",
       "type": "Teilzeit",

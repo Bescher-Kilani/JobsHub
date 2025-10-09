@@ -116,11 +116,12 @@ const AddJobPage = ({addJobSubmit}) => {
                               <option value="70.000–80.000 €">70.000–80.000 €</option>
                               <option value="80.000–90.000 €">80.000–90.000 €</option>
                               <option value="90.000–100.000 €">90.000–100.000 €</option>
-                              <option value="100.000–125.000 €">100.000–125.000 €</option>
-                              <option value="125.000–150.000 €">125.000–150.000 €</option>
-                              <option value="150.000–175.000 €">150.000–175.000 €</option>
-                              <option value="175.000–200.000 €">175.000–200.000 €</option>
-                              <option value="Über 200.000 €">Über 200.000 €</option>
+                              <option value="100.000–110.000 €">100.000–110.000 €</option>
+                              <option value="110.000–125.000 €">110.000–125.000 €</option>
+                              <option value="125.000–140.000 €">125.000–140.000 €</option>
+                              <option value="140.000–160.000 €">140.000–160.000 €</option>
+                              <option value="Über 160.000 €">Über 160.000 €</option>
+
 
                           </select>
                       </div>
