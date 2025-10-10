@@ -8,10 +8,10 @@ const JobPage = ({deleteJob}) => {
     const navigate = useNavigate();
 
     const onDeleteClick = (jobId) => {
-        const confirm = window.confirm('Are you sure you want to delete this job?');
+        const confirm = window.confirm('Möchtest du diesen Job wirklich löschen?');
         if (!confirm) return;
         deleteJob(jobId);
-        toast.success('Job Deleted Successfully !');
+        toast.success('Job erfolgreich gelöscht !');
         navigate('/jobs')
     }
 

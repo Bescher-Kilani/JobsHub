@@ -155,20 +155,6 @@
       }
     },
     {
-      "id": "12",
-      "title": "React Developer (Werkstudent:in)",
-      "type": "Teilzeit",
-      "location": "Dresden",
-      "description": "Du unterstützt bei Komponentenentwicklung, Testautomatisierung, Dokumentation und kleinen Bugfixes. Du erhältst Coaching, lernst CI/CD, Git-Workflows und arbeitest mit echten Produktionssystemen.",
-      "salary": "Unter 20 €/h",
-      "company": {
-        "name": "SmartDev Labs",
-        "description": "SmartDev Labs ist ein Dresdner Startup (≈18 Mitarbeitende) mit Fokus Web & KI-Prototyping. Wir bieten flexible Arbeitszeiten, Thesis-Betreuung, moderne Hardware und ein lernfreundliches Umfeld.",
-        "contactEmail": "werkstudent@smartdevlabs.de",
-        "contactPhone": "+49 351 6257 812"
-      }
-    },
-    {
       "id": "13",
       "title": "React Developer für SaaS-Plattform",
       "type": "Vollzeit",
@@ -267,20 +253,6 @@
       }
     },
     {
-      "id": "20",
-      "title": "React Developer (Freelancer)",
-      "type": "Freelance",
-      "location": "Remote (Deutschlandweit)",
-      "description": "Projektbasierte UI-Entwicklung mit React/TypeScript. Aufgaben: Komponentensysteme, Integrationen, Performance-Tuning, E2E-Tests. Erwartet: saubere Kommunikation, zuverlässige Schätzungen, eigenständige Umsetzung.",
-      "salary": "Über 50 €/h",
-      "company": {
-        "name": "DevWorks Consulting",
-        "description": "DevWorks ist eine Tech-Beratung (Core-Team ≈15) mit großem Freelancer-Netzwerk. Wir bieten klare Verträge, schnelle Zahlungen, technische Sparrings und langfristige Partnerschaften.",
-        "contactEmail": "freelance@devworks.de",
-        "contactPhone": "+49 40 9901 345"
-      }
-    },
-    {
       "id": "21",
       "title": "React Developer für FinTech-Plattform",
       "type": "Vollzeit",
@@ -314,7 +286,7 @@
       "type": "Vollzeit",
       "location": "Münster",
       "description": "Du führst ein kleines Team, definierst Architektur- und Qualitätsstandards, planst Epics & Roadmaps und bleibst hands-on. Du arbeitest mit Stakeholdern, priorisierst Backlogs und förderst Wissensaustausch.",
-      "salary": "100.000–110.000 €",
+      "salary": "70.000–80.000 €",
       "company": {
         "name": "DeltaSoft GmbH",
         "description": "DeltaSoft (≈95 Mitarbeitende) liefert Enterprise-Weblösungen. Wir bieten transparente Karrierepfade, Leadership-Coaching, Remote-Option, 30 Tage Urlaub, Gesundheitsbudget und jährliche Tech-Days.",
